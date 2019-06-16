@@ -19,7 +19,7 @@ Nearby we see a store with a flag inside for a very large number of clicks.
 
 ![](https://github.com/Red-Cadets/CTF-writeups/blob/master/BCACTF/WEB/images/4_2.PNG) 
 
-The decision was to change the cookies, since so many hints on them.
+The decision was to change `cookies`, since so many hints on them.
 
 ![](https://github.com/Red-Cadets/CTF-writeups/blob/master/BCACTF/WEB/images/4_3.PNG) 
 
