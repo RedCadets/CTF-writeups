@@ -13,7 +13,7 @@
 
 ### Solution
 
-Using tips on the Linux dig command, we get nothing.
+Using tips on the Linux `dig` command, we get nothing.
 
 ![](https://github.com/Red-Cadets/CTF-writeups/blob/master/BCACTF/WEB/images/3_1.PNG)
 
