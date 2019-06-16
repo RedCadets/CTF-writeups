@@ -11,7 +11,7 @@
 
 The solution for some reason is similar to the first task. It is only necessary to climb a little deeper into the source code.
 
-![](ссыль здесь)
+![](https://github.com/Red-Cadets/CTF-writeups/blob/master/BCACTF/WEB/images/2_1.PNG)
 
 ##### Flag
 
